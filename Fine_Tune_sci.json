@@ -1,0 +1,261 @@
+[
+                {
+                "instruction": "What is the formula for Newton's second law of motion?",
+                "input": "",
+                "output": "The formula for Newton's second law of motion is F = ma, where F is the force, m is the mass, and a is the acceleration."
+                },
+                {
+                "instruction": "What is the formula for gravitational force between two masses?",
+                "input": "",
+                "output": "The formula for gravitational force is F = G * (m1 * m2) / r², where F is the gravitational force, G is the gravitational constant, m1 and m2 are the masses, and r is the distance between the masses."
+                },
+                {
+                "instruction": "What is the formula for kinetic energy?",
+                "input": "",
+                "output": "The formula for kinetic energy is KE = 1/2 mv², where KE is the kinetic energy, m is the mass, and v is the velocity."
+                },
+                {
+                "instruction": "Provide the formula for potential energy in a gravitational field.",
+                "input": "",
+                "output": "The formula for gravitational potential energy is PE = mgh, where PE is the potential energy, m is the mass, g is the acceleration due to gravity, and h is the height above the reference point."
+                },
+                {
+                "instruction": "What is the formula for work done by a force?",
+                "input": "",
+                "output": "The formula for work done is W = Fd cos(θ), where W is the work done, F is the force, d is the displacement, and θ is the angle between the force and displacement."
+                },
+                {
+                "instruction": "What is the formula for the period of a simple pendulum?",
+                "input": "",
+                "output": "The formula for the period of a simple pendulum is T = 2π√(L/g), where T is the period, L is the length of the pendulum, and g is the acceleration due to gravity."
+                },
+                {
+                "instruction": "What is the formula for electric potential energy between two point charges?",
+                "input": "",
+                "output": "The formula for electric potential energy is U = k * (q1 * q2) / r, where U is the electric potential energy, k is Coulomb's constant, q1 and q2 are the charges, and r is the distance between the charges."
+                },
+                {
+                "instruction": "What is the formula for Ohm's law?",
+                "input": "",
+                "output": "The formula for Ohm's law is V = IR, where V is the voltage, I is the current, and R is the resistance."
+                },
+                {
+                "instruction": "What is the formula for the Doppler effect?",
+                "input": "",
+                "output": "The formula for the Doppler effect is f' = f * (v + v₀) / (v - vₛ), where f' is the observed frequency, f is the emitted frequency, v is the speed of sound, v₀ is the speed of the observer, and vₛ is the speed of the source."
+                },
+                {
+                "instruction": "What is the formula for the first law of thermodynamics?",
+                "input": "",
+                "output": "The formula for the first law of thermodynamics is ΔU = Q - W, where ΔU is the change in internal energy, Q is the heat added to the system, and W is the work done by the system."
+                }
+        
+                {
+                "instruction": "What is the formula for momentum?",
+                "input": "",
+                "output": "The formula for momentum is p = mv, where p is momentum, m is the mass, and v is the velocity."
+                },
+                {
+                "instruction": "What is the formula for Hooke's Law?",
+                "input": "",
+                "output": "The formula for Hooke's Law is F = -kx, where F is the force exerted by the spring, k is the spring constant, and x is the displacement from the equilibrium position."
+                },
+                {
+                "instruction": "What is the formula for Coulomb's law?",
+                "input": "",
+                "output": "The formula for Coulomb's law is F = k * (q1 * q2) / r², where F is the electrostatic force, k is Coulomb's constant, q1 and q2 are the charges, and r is the distance between the charges."
+                },
+                {
+                "instruction": "What is the formula for the wave equation?",
+                "input": "",
+                "output": "The wave equation is v = fλ, where v is the wave speed, f is the frequency, and λ is the wavelength."
+                },
+                {
+                "instruction": "What is the formula for centripetal force?",
+                "input": "",
+                "output": "The formula for centripetal force is F = (mv²) / r, where F is the centripetal force, m is the mass, v is the velocity, and r is the radius of the circular path."
+                },
+                {
+                "instruction": "What is the formula for the power in terms of work and time?",
+                "input": "",
+                "output": "The formula for power is P = W / t, where P is power, W is work done, and t is the time taken."
+                },
+                {
+                "instruction": "What is the formula for the energy of a photon?",
+                "input": "",
+                "output": "The formula for the energy of a photon is E = hf, where E is the energy, h is Planck’s constant, and f is the frequency of the photon."
+                },
+                {
+                "instruction": "What is the formula for the Lorentz force?",
+                "input": "",
+                "output": "The formula for the Lorentz force is F = q(E + v × B), where F is the force, q is the charge, E is the electric field, v is the velocity of the charge, and B is the magnetic field."
+                },
+                {
+                "instruction": "What is the formula for the capacitance of a parallel-plate capacitor?",
+                "input": "",
+                "output": "The formula for the capacitance of a parallel-plate capacitor is C = ε₀A / d, where C is the capacitance, ε₀ is the permittivity of free space, A is the area of one of the plates, and d is the distance between the plates."
+                },
+                {
+                "instruction": "What is the formula for the period of a mass-spring system?",
+                "input": "",
+                "output": "The formula for the period of a mass-spring system is T = 2π√(m / k), where T is the period, m is the mass, and k is the spring constant."
+                },
+                {
+                "instruction": "What is the formula for angular momentum?",
+                "input": "",
+                "output": "The formula for angular momentum is L = Iω, where L is the angular momentum, I is the moment of inertia, and ω is the angular velocity."
+                },
+                {
+                "instruction": "What is the formula for magnetic flux?",
+                "input": "",
+                "output": "The formula for magnetic flux is Φ = B * A * cos(θ), where Φ is the magnetic flux, B is the magnetic field strength, A is the area, and θ is the angle between the magnetic field and the normal to the area."
+                },
+                {
+                "instruction": "What is the formula for the intensity of a wave?",
+                "input": "",
+                "output": "The formula for the intensity of a wave is I = P / A, where I is the intensity, P is the power, and A is the area."
+                },
+                {
+                "instruction": "What is the formula for entropy change in a reversible process?",
+                "input": "",
+                "output": "The formula for entropy change is ΔS = Q / T, where ΔS is the change in entropy, Q is the heat added to the system, and T is the temperature in kelvin."
+                },
+                {
+                "instruction": "What is the formula for pressure in terms of force and area?",
+                "input": "",
+                "output": "The formula for pressure is P = F / A, where P is pressure, F is the force, and A is the area over which the force is applied."
+                },
+                {
+                "instruction": "What is the formula for the escape velocity of an object from a planet?",
+                "input": "",
+                "output": "The formula for escape velocity is vₑ = √(2GM / R), where vₑ is the escape velocity, G is the gravitational constant, M is the mass of the planet, and R is the radius of the planet."
+                },
+                {
+                "instruction": "What is the formula for the ideal gas law?",
+                "input": "",
+                "output": "The formula for the ideal gas law is PV = nRT, where P is the pressure, V is the volume, n is the number of moles of gas, R is the gas constant, and T is the temperature in kelvin."
+                },
+                {
+                "instruction": "What is the formula for angular frequency in simple harmonic motion?",
+                "input": "",
+                "output": "The formula for angular frequency is ω = 2πf, where ω is the angular frequency, and f is the frequency."
+                },
+                {
+                "instruction": "What is the formula for the refractive index?",
+                "input": "",
+                "output": "The formula for the refractive index is n = c / v, where n is the refractive index, c is the speed of light in a vacuum, and v is the speed of light in the medium."
+                },
+                {
+                "instruction": "What is the formula for the efficiency of a heat engine?",
+                "input": "",
+                "output": "The formula for the efficiency of a heat engine is η = (W / Qₕ) = 1 - (Qₗ / Qₕ), where η is the efficiency, W is the work done by the engine, Qₕ is the heat absorbed from the hot reservoir, and Qₗ is the heat released to the cold reservoir."
+                }
+            
+            
+                {
+                  "instruction": "What is the formula for relativistic energy?",
+                  "input": "",
+                  "output": "The formula for relativistic energy is E = γmc², where E is the total energy, γ is the Lorentz factor, m is the rest mass, and c is the speed of light."
+                },
+                {
+                  "instruction": "What is the formula for the Lorentz factor?",
+                  "input": "",
+                  "output": "The formula for the Lorentz factor is γ = 1 / √(1 - v²/c²), where γ is the Lorentz factor, v is the velocity of the object, and c is the speed of light."
+                },
+                {
+                  "instruction": "What is the formula for time dilation in special relativity?",
+                  "input": "",
+                  "output": "The formula for time dilation is Δt' = Δt / √(1 - v²/c²), where Δt' is the time interval in the moving frame, Δt is the time interval in the rest frame, v is the relative velocity, and c is the speed of light."
+                },
+                {
+                  "instruction": "What is the formula for length contraction?",
+                  "input": "",
+                  "output": "The formula for length contraction is L = L₀√(1 - v²/c²), where L is the contracted length, L₀ is the proper length, v is the velocity of the object, and c is the speed of light."
+                },
+                {
+                  "instruction": "What is the de Broglie wavelength formula?",
+                  "input": "",
+                  "output": "The formula for the de Broglie wavelength is λ = h / p, where λ is the wavelength, h is Planck’s constant, and p is the momentum of the particle."
+                },
+                {
+                  "instruction": "What is the Schrödinger equation in one dimension?",
+                  "input": "",
+                  "output": "The time-independent Schrödinger equation in one dimension is: -ħ²/2m * (d²ψ/dx²) + V(x)ψ = Eψ, where ψ is the wave function, ħ is the reduced Planck’s constant, m is the mass, V(x) is the potential, and E is the energy."
+                },
+                {
+                  "instruction": "What is the formula for the Heisenberg uncertainty principle?",
+                  "input": "",
+                  "output": "The Heisenberg uncertainty principle is ΔxΔp ≥ ħ/2, where Δx is the uncertainty in position, Δp is the uncertainty in momentum, and ħ is the reduced Planck’s constant."
+                },
+                {
+                  "instruction": "What is the formula for the energy of a particle in a box?",
+                  "input": "",
+                  "output": "The formula for the energy levels of a particle in a one-dimensional box is Eₙ = (n²h²)/(8mL²), where Eₙ is the energy, n is the quantum number, h is Planck’s constant, m is the mass of the particle, and L is the length of the box."
+                },
+                {
+                  "instruction": "What is the formula for the Rayleigh criterion?",
+                  "input": "",
+                  "output": "The Rayleigh criterion is θ = 1.22λ / D, where θ is the angular resolution, λ is the wavelength of light, and D is the diameter of the aperture."
+                },
+                {
+                  "instruction": "What is Snell's law?",
+                  "input": "",
+                  "output": "Snell's law is n₁sin(θ₁) = n₂sin(θ₂), where n₁ and n₂ are the refractive indices of the two media, and θ₁ and θ₂ are the angles of incidence and refraction, respectively."
+                },
+                {
+                  "instruction": "What is the formula for Brewster's angle?",
+                  "input": "",
+                  "output": "The formula for Brewster's angle is tan(θₚ) = n₂ / n₁, where θₚ is Brewster's angle, n₁ is the refractive index of the first medium, and n₂ is the refractive index of the second medium."
+                },
+                {
+                  "instruction": "What is the formula for the intensity of light in terms of electric field amplitude?",
+                  "input": "",
+                  "output": "The formula for the intensity of light is I = (1/2)ε₀cE₀², where I is the intensity, ε₀ is the permittivity of free space, c is the speed of light, and E₀ is the amplitude of the electric field."
+                },
+                {
+                  "instruction": "What is the formula for the energy density of an electromagnetic wave?",
+                  "input": "",
+                  "output": "The formula for the energy density of an electromagnetic wave is u = ε₀E²/2 + B²/(2μ₀), where u is the energy density, ε₀ is the permittivity of free space, E is the electric field strength, B is the magnetic field strength, and μ₀ is the permeability of free space."
+                },
+                {
+                  "instruction": "What is the formula for blackbody radiation energy density?",
+                  "input": "",
+                  "output": "The formula for blackbody radiation energy density is u = (8πν²/c³) * (hν / (e^(hν/kT) - 1)), where u is the energy density, ν is the frequency, h is Planck's constant, c is the speed of light, k is the Boltzmann constant, and T is the temperature."
+                },
+                {
+                  "instruction": "What is the formula for Wien's displacement law?",
+                  "input": "",
+                  "output": "Wien's displacement law is λ_max = b / T, where λ_max is the wavelength at which the emission is maximal, T is the temperature, and b is Wien's displacement constant."
+                },
+                {
+                  "instruction": "What is the formula for the Compton wavelength shift?",
+                  "input": "",
+                  "output": "The formula for Compton scattering is Δλ = (h / mc)(1 - cosθ), where Δλ is the change in wavelength, h is Planck’s constant, m is the mass of the electron, c is the speed of light, and θ is the scattering angle."
+                },
+                {
+                  "instruction": "What is the formula for the Einstein field equation in general relativity?",
+                  "input": "",
+                  "output": "The Einstein field equation is Gμν + Λgμν = (8πG/c⁴)Tμν, where Gμν is the Einstein tensor, Λ is the cosmological constant, gμν is the metric tensor, G is the gravitational constant, c is the speed of light, and Tμν is the stress-energy tensor."
+                },
+                {
+                  "instruction": "What is the formula for Hubble's law?",
+                  "input": "",
+                  "output": "Hubble's law is v = H₀d, where v is the recessional velocity of a galaxy, H₀ is the Hubble constant, and d is the distance to the galaxy."
+                },
+                {
+                  "instruction": "What is the formula for the Schwarzschild radius of a black hole?",
+                  "input": "",
+                  "output": "The formula for the Schwarzschild radius is rₛ = 2GM / c², where rₛ is the Schwarzschild radius, G is the gravitational constant, M is the mass of the object, and c is the speed of light."
+                },
+                {
+                  "instruction": "What is the formula for the cosmological redshift?",
+                  "input": "",
+                  "output": "The formula for cosmological redshift is z = (λ_observed - λ_emitted) / λ_emitted, where z is the redshift, λ_observed is the observed wavelength, and λ_emitted is the emitted wavelength."
+                }
+            
+                        
+                 
+    
+      
+  ]
+  
